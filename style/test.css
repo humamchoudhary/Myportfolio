@@ -1,0 +1,25 @@
+body{
+  background: rgba(0, 0, 0, 0.787);
+    
+}
+  
+
+.arrow-wrapper .arrow-head .arrow1{
+  background-color:white;
+  width: 25px;
+  height:5px;
+  transform: rotate(135deg) translateX(-5px) translateY(0.2px);
+}
+  
+.arrow-wrapper .arrow-head .arrow2{
+  background-color:white;
+  width: 25px;
+  height:5px;
+  transform: rotate(-135deg) translateX(-6.4px) translateY(-3.5px);
+}
+.arrow-wrapper .arrow-tail{
+  background-color:white;
+  width: 40px;
+  height:5px;
+  transform:translateY(-5.5px) translateX(8px);
+}
